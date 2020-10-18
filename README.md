@@ -11,20 +11,19 @@
 Conceitos básicos, preparação do ambiente, semântica do HTML5, textos, títulos, ligações, multimídia, estilos.
 
 - Módulo 02:  Deixando as coisas mais bonitas
-<p>Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelos de caixas, wireframe, responsividade.
-</p>
+Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelos de caixas, wireframe, responsividade.
+
 - Módulo 03:  Colocando um protótipo no ar
-<p>
+
 Versionamento de Software, hospedagem de sites estáticos, tabelas.
-</p>
+
 - Módulo 04: Aprofundando os conhecimentos
-<p>
+
 Quadros em linha, formulários, media queries, mobile first.
-</p>
+
 - Módulo 05: Novas Tecnologias
-<p>
+
 FlexBox, GridLayout, projeto final.
-</p>
 
 ### Ferramentas Utilizadas
 - Visual Studio Code
