@@ -11,6 +11,7 @@
 Conceitos básicos, preparação do ambiente, semântica do HTML5, textos, títulos, ligações, multimídia, estilos.
 
 - Módulo 02:  Deixando as coisas mais bonitas
+
 Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelos de caixas, wireframe, responsividade.
 
 - Módulo 03:  Colocando um protótipo no ar
