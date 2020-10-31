@@ -30,7 +30,7 @@ Quadros em linha, formulários, media queries, mobile first.
 
 FlexBox, GridLayout, projeto final.
 
-### Ferramentas Utilizadas
+### :toolbox: Ferramentas Utilizadas
 - Visual Studio Code
 
 ### :lock: Licença
