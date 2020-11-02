@@ -34,4 +34,4 @@ FlexBox, GridLayout, projeto final.
 - Visual Studio Code
 
 ### :lock: Licença
-<p>Desenvolvido por Daniel Paiva</p>
+<p>Desenvolvido por <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a></p>
