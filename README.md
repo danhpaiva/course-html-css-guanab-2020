@@ -32,6 +32,7 @@ FlexBox, GridLayout, projeto final.
 
 ### :toolbox: Ferramentas Utilizadas
 - Visual Studio Code
+- EmojiPedia (https://emojipedia.org/)
 
 ### :lock: Licença
 <p>Desenvolvido por <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a></p>
