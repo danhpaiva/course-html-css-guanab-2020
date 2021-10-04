@@ -34,7 +34,7 @@ FlexBox, GridLayout, Final Design.
 
 ### 🧰 Tools Used
 
-- Visual Studio Code ([(https://emojipedia.org/)](https://code.visualstudio.com/download))
+- Visual Studio Code ([Download](https://code.visualstudio.com/download))
 - EmojiPedia (https://emojipedia.org/)
 - Unsplash (https://unsplash.com/)
 - Pexels (https://www.pexels.com/pt-br/)
