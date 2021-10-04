@@ -1,40 +1,43 @@
-# 💻 Curso de HTML5 & CSS3 do Curso em Vídeo
+# 💻 "HTML5 & CSS3" course, channel: Video Course
 
-## Descrição
+## Description
 <p>
-Curso completo de HTML5 e CSS3, abordando desde a criação de sites responsivos como sua 
+Complete HTML5 and CSS3 course, covering everything from creating responsive websites like yours<br>
+Publication.
 </p>
 
 <p align="center">
-<img src = "https://i.imgur.com/3S09E1H.png" alt = "curso" width = "500">
+<img src = "https://i.imgur.com/3S09E1H.png" alt = "course" width = "500">
 </p>
 
-### Módulos
-- Módulo 01:  Primeiros passos HTML + CSS
+### Modules
 
-Conceitos básicos, preparação do ambiente, semântica do HTML5, textos, títulos, ligações, multimídia, estilos.
+- Module 01: First steps HTML + CSS
 
-- Módulo 02:  Deixando as coisas mais bonitas
+Basic concepts, environment preparation, HTML5 semantics, texts, titles, links, multimedia, styles.
 
-Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelos de caixas, wireframe, responsividade.
+- Module 02: Making things more beautiful
 
-- Módulo 03:  Colocando um protótipo no ar
+Design fundamentals, color psychology, typography, CSS elements, box templates, wireframe, responsiveness.
 
-Versionamento de Software, hospedagem de sites estáticos, tabelas.
+- Module 03: Putting a prototype on air
 
-- Módulo 04: Aprofundando os conhecimentos
+Software Versioning, Static Website Hosting, Tables.
 
-Quadros em linha, formulários, media queries, mobile first.
+- Module 04: Deepening knowledge
 
-- Módulo 05: Novas Tecnologias
+Online boards, forms, media queries, mobile first.
 
-FlexBox, GridLayout, projeto final.
+- Module 05: New Technologies
 
-### :toolbox: Ferramentas Utilizadas
-- Visual Studio Code
+FlexBox, GridLayout, Final Design.
+
+### 🧰 Tools Used
+
+- Visual Studio Code ([(https://emojipedia.org/)](https://code.visualstudio.com/download))
 - EmojiPedia (https://emojipedia.org/)
 - Unsplash (https://unsplash.com/)
 - Pexels (https://www.pexels.com/pt-br/)
 
-### :lock: Licença
-<p>Desenvolvido por <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a></p>
+### 🔓 Licence
+<p>Developed by <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a></p>
